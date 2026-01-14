@@ -3,6 +3,39 @@
 - Responsive Personal Portfolio Website HTML CSS & JavaScript.
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
+
+# Work Integrated Learning (WIL)
+Evidence: 
+This is a link to a video presentation of a website that I created, https://drive.google.com/file/d/1YBSL3yQahh6zloaWrMUG72BwYd5-NFdp/view?usp=sharing 
+
+ Reflection: STAR technique
+- Situation:
+I had to present an idea to my leaders on what type of website or application I want to create. I brought it to them, and they were satisfied with my idea. The idea was a nail tech website where people could book a nail tech at their closest mall.
+
+*Task:*
+- I had to create a UI/UX design for the website (Created logo, colors used in the website, and typography).
+
+Start creating the website or application based on your choice of coding language.
+I had to present it at the end.
+
+- Action:
+I used Figma to create the design of the website.
+I used Typescript, HTML, CSS, Vite, Nodejs.
+I created a video 
+
+- Result:
+
+
+
+
+
+
+
+
+
+
+
+
   
 # Video Presentation:
   Evidence:
