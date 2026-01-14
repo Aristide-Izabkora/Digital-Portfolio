@@ -36,9 +36,11 @@
   <img width="520" height="283" alt="Screenshot 2025-09-12 085230" src="https://github.com/user-attachments/assets/44adf3dc-d14c-4885-acf7-b858b45acc2c" />  
 
 
- - Typography  
+ - Typography
+   
    Share Tech Font    
-<img width="1200" height="600" alt="share-tech-font" src="https://github.com/user-attachments/assets/ea545712-9117-43d9-ae78-bcd0f5f11ac1" />  
+<img width="1200" height="600" alt="share-tech-font" src="https://github.com/user-attachments/assets/ea545712-9117-43d9-ae78-bcd0f5f11ac1" />
+
    Inder Font  
 <img width="720" height="360" alt="inder-typography" src="https://github.com/user-attachments/assets/379572d9-9363-42bf-b39f-4f518982db75" />  
 
