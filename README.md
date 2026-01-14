@@ -22,31 +22,31 @@
 - I created a video 
 
 *Result:*
-- Figma
- <img width="1365" height="767" alt="Screenshot 2026-01-14 204701" src="https://github.com/user-attachments/assets/e6650c6b-e61e-4fb3-9d12-0fe902196cd5" />
+- Figma  
+ <img width="1365" height="767" alt="Screenshot 2026-01-14 204701" src="https://github.com/user-attachments/assets/e6650c6b-e61e-4fb3-9d12-0fe902196cd5" />  
  When creating any designs, I always use Figma because I am more familiar with it.
-<br>
+<br>  
 
-- Logo
-  <img width="826" height="635" alt="Screenshot 2026-01-14 204615" src="https://github.com/user-attachments/assets/ff54843c-93ce-444e-8ea8-ad1bec870a0f" /> <br>
- This is where I learned how to create a logo, using Figma.
-<br>
+- Logo  
+  <img width="826" height="635" alt="Screenshot 2026-01-14 204615" src="https://github.com/user-attachments/assets/ff54843c-93ce-444e-8ea8-ad1bec870a0f" />  
+ This is where I learned how to create a logo, using Figma.  
 
-- Colors
-  <img width="520" height="283" alt="Screenshot 2025-09-12 085230" src="https://github.com/user-attachments/assets/44adf3dc-d14c-4885-acf7-b858b45acc2c" />
-<br>
 
- - Typography
-   Share Tech Font <br>
-<img width="1200" height="600" alt="share-tech-font" src="https://github.com/user-attachments/assets/ea545712-9117-43d9-ae78-bcd0f5f11ac1" />
-   Inder Font <br>
-<img width="720" height="360" alt="inder-typography" src="https://github.com/user-attachments/assets/379572d9-9363-42bf-b39f-4f518982db75" />
-<br>
+- Colors  
+  <img width="520" height="283" alt="Screenshot 2025-09-12 085230" src="https://github.com/user-attachments/assets/44adf3dc-d14c-4885-acf7-b858b45acc2c" />  
 
-- Coding
-<img width="303" height="617" alt="Screenshot 2026-01-14 205819" src="https://github.com/user-attachments/assets/43d66026-4278-4eaa-8b3d-3b8459934411" />
-<img width="1365" height="767" alt="Screenshot 2026-01-14 205737" src="https://github.com/user-attachments/assets/1583fadf-d0dc-4888-8c3a-242f038b2f17" />
-<br>
+
+ - Typography  
+   Share Tech Font    
+<img width="1200" height="600" alt="share-tech-font" src="https://github.com/user-attachments/assets/ea545712-9117-43d9-ae78-bcd0f5f11ac1" />  
+   Inder Font  
+<img width="720" height="360" alt="inder-typography" src="https://github.com/user-attachments/assets/379572d9-9363-42bf-b39f-4f518982db75" />  
+
+
+- Coding  
+<img width="303" height="617" alt="Screenshot 2026-01-14 205819" src="https://github.com/user-attachments/assets/43d66026-4278-4eaa-8b3d-3b8459934411" />  
+<img width="1365" height="767" alt="Screenshot 2026-01-14 205737" src="https://github.com/user-attachments/assets/1583fadf-d0dc-4888-8c3a-242f038b2f17" />  
+
 
 - Video
 https://drive.google.com/file/d/1YBSL3yQahh6zloaWrMUG72BwYd5-NFdp/view?usp=sharing
